@@ -1,11 +1,11 @@
 # Site settings
 author: Ebony Sharrock
-title: 
+title: Amatuer Hour 
 header-img: img/home-bg.png
 email: ebonysharrock@gmail.com
 copyright_name: Ebony Sharrock
 description: > # this means to ignore newlines until "baseurl:"
-  
+  My First Run-in With Software Engineering
 baseurl: "" # the subpath of your site, e.g. /blog
 twitter_username: 
 github_username:  ebonyash15
