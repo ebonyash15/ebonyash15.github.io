@@ -1,7 +1,7 @@
 ---
 layout: post
 title:      "Why Software Development?"
-date:       2019-11-13 00:22:55 +0000
+date:       2019-11-12 19:22:56 -0500
 permalink:  why_software_development
 ---
 
@@ -14,6 +14,6 @@ Intro to Engineering covered a lot of computer programming through MatLab, being
 
 Suddenly, the timing for higher education was no longer a viable excuse. FlatIron even offered a free online Software Eengineering Bootcamp so that I could get a feel for my compatablility with the field. The material was challenging but encouraging and I consumed it with a hunger as though the muses had a grip on me. 
 
-Halfway through the bootcamp it requires applying for a program. I had an opprotunity before me to develop a skill set to qualify for much better paying (and mentally engaging) careers and decided to take the plunge.
+Halfway through the bootcamp it requires applying for a program. Sat upright in my dimly lit room late at night I stared at the courses available and realized that I had an opprotunity before me to develop a skill set to qualify for much better paying (and mentally engaging) careers.  In a moment of clairty, I was perfectly aware of what a good fit software development was for me and I decided it would be a disservice to myself to not take the plunge.
 
 So, "why software development?" To increase my job satisfaction and quality of life by uncovering a lucrative manifestation for my passion of problemsolving.
