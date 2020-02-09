@@ -1,0 +1,25 @@
+---
+layout: post
+title:      "SQL and me"
+date:       2020-02-09 02:08:22 +0000
+permalink:  sql_and_me
+---
+
+When writing a program with data the goal is ultimately to be able to call on and manipulate that data later. A very convinient way to accomplish this with Standard Query Language (SQL) statements.
+
+SQL allows you to store attributes in a table like an excel sheet. After using SQL to create a database table with attributes one can map this data to a Ruby class object. This makes it easy to view data in a sorted table and compare other rows t oeach other. SQL allows you to select specific data and even sort or manipulate it with statments that nearly read like plain English.
+
+I find this to be incredibly useful. It makes logical sense to me when writing these statements and therefore enhances my coding experience.
+
+If you had a list of customers for a coffee shop with their names, normal order, and the cost of that order it would be easier to read in a table and SQL can help you manage and sort that data.  You could use the follwing SQL statement to index each person with their orders and the cost of those orders.
+
+"CREATE TABLE customers (
+id INTEGER PRIMARY KEY,
+name TEXT,
+order TEXT,
+cost INTEGER
+);"
+
+The "id INTEGER PRIMARY KEY" auto-increments with each new row of data to make selection, sorting, and totalling simple. 
+
+Capitalization is not required but helps when learning. The parts that are capitalized are standard parts of SQL statements but the statement does not lose any functionality in natural case, lowercase, or even SpoRAtiCallY cApitAlIZeD. The lowercase elements of my  example above are the elements unique to that database/table/column/value and makes learning how to format SQL statements easier by seperating the funtional elements from the data specific elements in immediately distinguishable ways without compromising the code's integrity.
